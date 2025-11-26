@@ -1,21 +1,20 @@
 <!-- Welcome -->
-<h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Dog%20Face.png" alt="Dog Face" width="25" height="25" /> Welcome to my Codebase <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Dog%20Face.png" alt="Dog Face" width="25" height="25" /> </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&duration=2500&size=21&color=00E5FF&center=true&vCenter=true&width=500&lines=%3E+I'm+an+Android+Developer;I'm+a+Systems+Engineer;Always+learning+new+technologies...">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F71A&center=true&vCenter=true&width=435&lines=%3E+Android+Developer;%3E+Zelda+Fan;%3E+UI%2FUX;%3E+SQL+Enthusiast">
 </p>
 
-<img align="left" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjV4N2FrZnM1dmxoMTF3ZGdodzY5aXRjODhhc24yaW90Y3hhZ2I4OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.webp"/>
+<img align="left" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExam1jbnZoY3dxaHF4eDl3cGwyMHF4bnlzYmF3NWZvamNpZGJ6NnhsdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8m7nAJTYvzNUh54HQm/giphy.gif"/>
 
 ```diff
-+ Ingeniero de Sistemas.
-+ Desarrollador Android (Kotlin / Java).
-! Aprendiendo SQL y ampliando mi stack.
-# Me enfoco en crear soluciones reales y funcionales.
-@@ El código es mejor cuando resuelve problemas del mundo real. @@
++ 🎓 Egresado de Ingeniería de Sistemas (UPAO), cargando experiencia… ✔️
++ 🎮 Dev Android (Kotlin / Java) en modo “Level Up”, explorando Flutter como side quest.
+! 🧩 Subiendo stats en SQL y ampliando mi tech-build cada día.
+# ⚙️ Me gusta crear apps que se sientan fluidas, intuitivas y bien diseñadas — como un buen HUD.
+@@ 🚀 Mi misión: escribir código que resuelva problemas reales y desbloquee nuevas posibilidades. @@
 ```
 
----
 
 <table align="center"> <!-- LANGUAGES --> <tr> <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;"> 🟦 Languages </td> <td>
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
@@ -68,20 +67,18 @@
 </td>
 
 </tr> </table>
----
+
 <p align="center">
 <a href="https://github.com/RyLayn">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=RyLayn&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RyLayn&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
----
 
-<p align="right">
+<p align="center">
 <a href="https://www.instagram.com/acsoles21"><img src="https://img.shields.io/badge/Instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white" height="25"/></a>
 <a href="https://www.tiktok.com/@ry_layn"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" height="25"/></a>
 <a href="https://www.linkedin.com/in/angel-cabrera-soles-30b2a52b5"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="25"/></a>
 </p>
 
-------
 
