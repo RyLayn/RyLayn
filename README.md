@@ -5,15 +5,20 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F71A&center=true&vCenter=true&width=435&lines=%3E+Android+Developer;%3E+Zelda+Fan;%3E+UI%2FUX;%3E+SQL+Enthusiast">
 </p>
 
-<img align="left" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExam1jbnZoY3dxaHF4eDl3cGwyMHF4bnlzYmF3NWZvamNpZGJ6NnhsdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8m7nAJTYvzNUh54HQm/giphy.gif"/>
+<div style="display: flex; align-items: center; gap: 15px;">
 
-```diff
-+ 🎓 Egresado de Ingeniería de Sistemas (UPAO), cargando experiencia… ✔️
+  <img align="left" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExam1jbnZoY3dxaHF4eDl3cGwyMHF4bnlzYmF3NWZvamNpZGJ6NnhsdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8m7nAJTYvzNUh54HQm/giphy.gif"/>
+
+  <pre>
+<code>+ 🎓 Egresado de Ingeniería de Sistemas (UPAO), cargando experiencia… ✔️
 + 🎮 Dev Android (Kotlin / Java) en modo “Level Up”, explorando Flutter como side quest.
 ! 🧩 Subiendo stats en SQL y ampliando mi tech-build cada día.
 # ⚙️ Me gusta crear apps que se sientan fluidas, intuitivas y bien diseñadas — como un buen HUD.
-@@ 🚀 Mi misión: escribir código que resuelva problemas reales y desbloquee nuevas posibilidades. @@
-```
+@@ 🚀 Mi misión: escribir código que resuelva problemas reales y desbloquee nuevas posibilidades. @@</code>
+  </pre>
+
+</div>
+
 
 <p align="center">
 <table align="center"> <!-- LANGUAGES --> <tr> <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;"> 🟦 Languages </td> <td>
@@ -68,6 +73,7 @@
 
 </tr> </table>
 </p>
+
 <p align="center">
 <a href="https://github.com/RyLayn">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=RyLayn&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
