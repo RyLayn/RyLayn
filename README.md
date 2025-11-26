@@ -15,7 +15,7 @@
 @@ 🚀 Mi misión: escribir código que resuelva problemas reales y desbloquee nuevas posibilidades. @@
 ```
 
-
+<p align="center">
 <table align="center"> <!-- LANGUAGES --> <tr> <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;"> 🟦 Languages </td> <td>
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -67,7 +67,7 @@
 </td>
 
 </tr> </table>
-
+</p>
 <p align="center">
 <a href="https://github.com/RyLayn">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=RyLayn&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
