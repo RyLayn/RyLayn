@@ -20,59 +20,88 @@
 </div>
 
 
-<p align="center">
-<table align="center"> <!-- LANGUAGES --> <tr> <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;"> 🟦 Languages </td> <td>
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+<div align="center">
 
-</td>
+<table>
+  <!-- Languages -->
+  <tr>
+    <td><b>Languages</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+    </td>
+  </tr>
 
-</tr> <!-- MOBILE --> <tr> <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;"> 📱 Mobile </td> <td>
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <!-- Mobile -->
+  <tr>
+    <td><b>Mobile</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+    </td>
+  </tr>
 
-</td>
+  <!-- Databases -->
+  <tr>
+    <td><b>Databases</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Firebase%20DB-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+    </td>
+  </tr>
 
-</tr> <!-- DATABASES --> <tr> <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;"> 🗄 Databases </td> <td>
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase%20DB-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34" />
+  <!-- Frontend -->
+  <tr>
+    <td><b>Frontend</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+      <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+    </td>
+  </tr>
 
-</td>
+  <!-- Dev Tools -->
+  <tr>
+    <td><b>Dev Tools</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+      <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+    </td>
+  </tr>
 
-</tr> <!-- FRONTEND --> <tr> <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;"> 🎨 Frontend </td> <td>
-  <img src="https://img.shields.io/badge/Bootstrap-8511FA?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=css3&logoColor=white" />
+  <!-- Design -->
+  <tr>
+    <td><b>Design</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=black"/>
+    </td>
+  </tr>
 
-</td>
+  <!-- Cloud / Data -->
+  <tr>
+    <td><b>Cloud / Data</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+      <img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+    </td>
+  </tr>
 
-</tr> <!-- DEV TOOLS --> <tr> <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;"> 🛠 Dev Tools </td> <td>
-  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" />
+  <!-- IDEs -->
+  <tr>
+    <td><b>IDEs</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"/>
+      <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+    </td>
+  </tr>
 
-</td>
+</table>
 
-</tr> <!-- DESIGN --> <tr> <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;"> 🎨 Design </td> <td>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
-  <img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" />
+</div>
 
-</td>
-
-</tr> <!-- CLOUD --> <tr> <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;"> ☁️ Cloud </td> <td>
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34" />
-
-</td>
-
-</tr> <!-- IDEs --> <tr> <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;"> 💻 IDEs </td> <td>
-  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-
-</td>
-
-</tr> </table>
-</p>
 
 <p align="center">
 <a href="https://github.com/RyLayn">
